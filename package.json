@@ -7,7 +7,7 @@
     "@rails/ujs": "^6.0.0",
     "@rails/webpacker": "5.2.2",
     "@types/request": "2.48.8",
-    "express": "4.17.3",
+    "express": "4.21.2",
     "turbolinks": "^5.2.0"
   },
   "version": "0.1.0",
