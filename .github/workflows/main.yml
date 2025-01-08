@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: cd railsfriends && yarn install --ignore-engines
       - name: Extract files from railsfriends folder
-        run: mv railsfriends/* railsfriends/.* . && rm -rf railsfriends
+        run: mv railsfriends/* railsfriends/.[!.]* . && rm -rf railsfriends
       - name: Commit and Push
         run: |
           git config --global user.name "oc-2"
