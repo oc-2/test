@@ -19,7 +19,7 @@ jobs:
       - name: Install yarn
         run: npm i -g yarn@1.22.5
       - name: Install dependencies
-        run: cd railsfriends && yarn install --force
+        run: cd railsfriends && yarn install --ignore-engines
       - name: Extract files from railsfriends folder
         run: mv railsfriends . && rmdir railsfriends
       - name: Commit and Push
