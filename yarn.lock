@@ -983,10 +983,10 @@
     "@parcel/watcher-win32-ia32" "2.5.0"
     "@parcel/watcher-win32-x64" "2.5.0"
 
-"@rails/actioncable@^6.0.0":
-  version "6.1.710"
-  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-6.1.710.tgz#5c77515cbc9b8fb5118afa0aa0048192b33c33ea"
-  integrity sha512-YDzMuh8mDRNLFXiexlLVnF1NUwk1bXwwO1gtEhOCsCqIsL6D21JfxpMwAD5x8qzrMJ1J0RZVa2hLl7ofeg+Mqw==
+"@rails/actioncable@^8.0.100":
+  version "8.0.100"
+  resolved "https://registry.yarnpkg.com/@rails/actioncable/-/actioncable-8.0.100.tgz#83733a8fa35be5d085cf0fe10b341d0428022bc0"
+  integrity sha512-/vXTG6gzSW0CDqmA0hWasZ1UAGZC7g5NGM21jowh58rCCeTHAGbWwKExHn49VDuYXz+cHbL4MGfc5LMdTp9m3A==
 
 "@rails/activestorage@^6.0.0":
   version "6.1.710"
