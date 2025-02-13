@@ -1,3 +1,0 @@
-sudo: false
-rvm:
-  - 2.6.6
