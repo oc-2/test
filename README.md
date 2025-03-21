@@ -30,3 +30,4 @@ Symbols: ❤️ 💔 💛 💚 💙 💜 🖤 🤍 🤎 💯 💢 💥 💫 💦
 Flags: 🏳️ 🌈 🚩
 
 Thanks to John Elder [@flatplanet](https://github.com/flatplanet) for the Rails project from the repository [railsfriends](https://github.com/flatplanet/railsfriends.git)!
+> **_NOTE:_** Code has been changed
