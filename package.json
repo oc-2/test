@@ -10,9 +10,6 @@
   },
   "version": "0.1.0",
   "devDependencies": {
-    "@types/express": "4.17.13",
-    "@types/node": "17.0.5",
-    "nodemon": "2.0.14",
     "webpack-dev-server": "^3.11.0"
   }
 }
