@@ -13,6 +13,10 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
+gem 'zeitwerk', '2.6.8'
+gem 'nokogiri', '1.13.10'
+gem 'mimemagic', '~> 0.3.10'
+
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
@@ -23,8 +27,8 @@ group :development do
 end
 
 group :production do
-	gem 'pg', '~> 1.2', '>= 1.2.3'
-	#gem 'rails_12factor', '0.0.2'
+    gem 'pg', '~> 1.2', '>= 1.2.3'
+    #gem 'rails_12factor', '0.0.2'
 end
 
 
