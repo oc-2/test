@@ -3,7 +3,7 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.6.6'
 
-gem 'rails', '~> 6.0.3', '>= 6.0.3.3'
+gem 'rails', '~> 6.0.3', '>= 6.0.3.6'
 
 gem 'puma', '~> 5.6', '>= 5.6.9'
 gem 'sass-rails', '>= 6'
@@ -14,7 +14,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
 gem 'zeitwerk', '2.6.8'
-gem 'nokogiri', '1.13.10'
+gem 'nokogiri', '1.18.4'
 gem 'mimemagic', '~> 0.3.10'
 
 group :development, :test do
