@@ -13,6 +13,7 @@ gem 'jbuilder', '~> 2.7'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'devise', '~> 4.7', '>= 4.7.3'
 
+# Gems that are used for dependeny/compatibility issues for older versions of Ruby and Rails
 gem 'zeitwerk', '2.6.8'
 gem 'nokogiri', '1.13.10'
 gem 'mimemagic', '~> 0.3.10'
